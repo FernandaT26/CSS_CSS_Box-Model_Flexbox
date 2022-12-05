@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300&family=Vollkorn&display=swap');
+
+/* font-family: 'Kalam', cursive;
+font-family: 'Vollkorn', serif; */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: lavenderblush;
+}
+nav {
+    background-color: lavenderblush;
+    text-align: left;
+    font-size: 20px;
+}
+
+.navItem {
+    display: inline;
+    background-color: lavenderblush;
+    text-align: left;
+    font-size: 20px;
+}
+
+.navItem:hover a {
+    color: lavenderblush;
+    background-color: brown;
+}
+
+/*Bordes */
+.border1 {
+    border: 1px solid brown;
+    border-radius: 20px;
+}
+
+#subtituloRedes {
+    color: lavenderblush;
+}
+.logo {
+    width: 10rem;
+}
+
+.carrito {
+    width: 8rem;
+    nav-right: 500rem;
+}
+
+h1 {
+    color: brown;
+    text-align: left;
+    font-size: 30px;
+    font-family:  'Kalam', cursive;
+}
+
+h2 {
+    color: brown;
+    text-align: left;
+    font-size: 30px;
+    font-family:  'Kalam', cursive;
+}
+
+.tituloVideo {
+    background-color: lavenderblush;
+}
+
+.videoExperiencia {
+    background-color: lavenderblush;
+}
+
+.tituloTercero {
+    text-align: left;
+    font-size: 30px;
+    color: brown;
+    font-family:  'Kalam', cursive
+}
+
+#subtituloRedes {
+    text-align: left;
+    font-size: 30px;
+    color: brown;
+    font-family:  'Kalam', cursive
+}
+
+li {
+    background-color: lavenderblush;
+    text-align: left;
+    font-size: 20px;
+}
+
+p {
+    text-transform: lowercase;
+}
+
+h4 {
+    color: brown;
+    text-align: left;
+    font-size: 70px;
+    font-family:  'Kalam', cursive;
+}
+
+#Ganado {
+    font-size: 20px;
+    text-align: left;
+}
+
+#Especificaciones {
+    font-size: 20px;
+    text-align: left;
+}
+
+#Garantia {
+    font-size: 20px;
+    text-align: left;
+}
+
+h5  {
+    color: brown;
+    text-align: left;
+    font-size: 30px;
+    font-family:  'Kalam', cursive;
+}
+
+.terceraImagen {
+    transition: 5s;
+    width: 2rem;
+    height: 2rem;
+    background-color: lavenderblush;
+    cursor: pointer;
+}
+.terceraImagen:hover {
+    width: 2rem;
+    height: 2rem;
+    color: lavenderblush;
+    transform: rotate(180deg);
+}
+.cuartaImagen {
+     transition: 5s;
+    width: 2rem;
+    height: 2rem;
+    background-color: lavenderblush;
+    cursor: pointer;
+}
+.cuartaImagen:hover {
+    width: 2rem;
+    height: 2rem;
+    color: lavenderblush;
+    transform: rotate(180deg);
+}
+
+.quintaImagen {
+    transition: 5s;
+    width: 2rem;
+    height: 2rem;
+    background-color: lavenderblush;
+    cursor: pointer;
+}
+.quintaImagen:hover {
+    width: 2rem;
+    height: 2rem;
+    color: lavenderblush;
+    transform: rotate(180deg);
+}
+
+.footerIndex {
+    background-color: lavenderblush;
+}
+
+.parrafoSegundo {
+    background-color: lavenderblush;
+    border: 1px solid lavenderblush;
+    width: 400px;
+    height: 100px;
+    overflow: scroll;
+}
+
+
